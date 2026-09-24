@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Produtos da categoria esporte com preço menor que 500",
+        "query": {
+            "$and": [
+                {
+                    "categoria": "esporte"
+                },
+                {
+                    "preco": {
+                        "$lte": 300
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "pergunta": "Nome e estoque dos 5 produtos com maior estoque da loja",
+        "query": {
+            "find": {},
+            "$project": {
+                "_id": 0,
+                "nome": 1,
+                "estoque": 1
+            },
+            "$sort": {
+                "estoque": -1
+                
+            },
+            "$limit": 5
+        }
+    },
+    {
+        "id": 3,
+        "pergunta": "Produtos cujo nome contém a palavra 'Kit' (sem diferenciar maiúsculas).",
+        "query": {
+            "nome": {
+                "$regex": "Kit",
+                "$options": "i"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "pergunta": "Produtos de calçados que têm o tamanho 39 na lista de tamanhos",
+        "query": {
+            "categoria": "calcados",
+            "atributos.tamanhos": 39
+        }
+    },
+    {
+        "id": 5,
+        "pergunta": "Quantidade de produtos sem nenhuma avaliação registrada.",
+        "query": {
+            "avaliacoes": null
+        }
+    },
+    {
+        "id": 6,
+        "pergunta": "Reajuste: aumente em R$5,00 o preço de todos os livros ($inc).",
+        "query": {}
+    },
+    {
+        "id": 7,
+        "pergunta": "Marque com o campo destaque: true os produtos com preço acima de R$500.",
+        "query": {}
+    },
+    {
+        "id": 8,
+        "pergunta": "Remova o campo promocao dos produtos da categoria casa ($unset).",
+        "query": {}
+    }
+]

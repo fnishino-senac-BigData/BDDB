@@ -1,0 +1,35 @@
+1. Qual banco utilizar para um carrinho que não pode cair na Black Friday?
+    Resposta: Chave-valor, pois possui alta velocidade de leitura e escrita, com acesso direto aos dados por uma chave.
+
+2. Qual banco utilizar para um catálogo com categorias que variam por atributo?
+    Resposta: Documental, pois possui estrutura flexível, permitindo que diferentes produtos tenham diferentes atributos.
+
+3. Qual banco utilizar para telemetria de entregadores a cada 5 segundos, com consulta por veículo e período?
+    Resposta: Colunar, pois possui alta capacidade de escrita e armazenamento distribuído para grandes volumes de dados.
+
+4. Qual banco utilizar para descobrir quem comprou X também comprou Y?
+    Resposta: Grafo, pois possui representação e consulta eficiente dos relacionamentos entre clientes e produtos.
+
+5. Qual banco utilizar para um ranking dos mais vendidos na última hora em tempo real?
+    Resposta: Chave-valor, pois possui atualização rápida de contadores e recuperação eficiente dos itens mais vendidos.
+
+6. Qual banco utilizar para um perfil de cliente lido a cada login?
+    Resposta: Documental, pois permite o armazenamento do perfil como um documento completo, com estrutura flexível e possibilidade de adicionar ou alterar atributos sem exigir um esquema rígido.
+
+7. Qual banco utilizar para bilhões de cliques por mês, com análise por dia e por campanha?
+    Modelo: Colunar, pois possui alta capacidade de armazenamento e processamento de grandes volumes de eventos, permitindo consultas eficientes por dimensões como data e campanha.
+
+8. Qual banco utilizar para detectar fraude envolvendo vínculos entre cartões, endereços e dispositivos?
+    Modelo: Grafo, pois possui representação e análise eficiente de relacionamentos entre diferentes entidades, facilitando a identificação de conexões suspeitas.
+
+9. Qual banco utilizar para sessões com expiração automática após 30 minutos?
+    Modelo: Chave-valor, pois permite armazenar a sessão associada a uma chave e utilizar TTL para expirar automaticamente o registro após determinado período.
+
+10. Qual banco utilizar para comentários e avaliações com respostas aninhadas?
+     Modelo: Documental, pois permite representar comentários, avaliações e suas respostas em documentos hierárquicos e flexíveis.
+
+11. Qual banco utilizar para um feed de notificações por usuário, ordenado por tempo?
+     Modelo: Colunar, pois permite organizar grandes volumes de notificações por usuário e tempo, possibilitando consultas eficientes por chave e intervalo temporal.
+
+12. Qual banco utilizar para sugestão de amigos baseada em conexões em comum?
+     Modelo: Grafo, pois permite percorrer relacionamentos e identificar conexões compartilhadas entre usuários.
