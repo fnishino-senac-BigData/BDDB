@@ -27,7 +27,6 @@
             },
             "$sort": {
                 "estoque": -1
-                
             },
             "$limit": 5
         }
@@ -60,16 +59,50 @@
     {
         "id": 6,
         "pergunta": "Reajuste: aumente em R$5,00 o preço de todos os livros ($inc).",
-        "query": {}
+        "query": [
+            {
+                "match": {
+                    "categoria": "livros"
+                }
+            },
+            {
+                "set": {
+                    "preco": {
+                        "add": [
+                            "$preco",
+                            5
+                        ]
+                    }
+                }
+            }
+        ]
     },
     {
         "id": 7,
         "pergunta": "Marque com o campo destaque: true os produtos com preço acima de R$500.",
-        "query": {}
+        "query": [
+            {
+                "$match": {
+                    "preco": {
+                        "$gte": 500
+                    }
+                }
+            },
+            {
+                "$set": {
+                    "destaque": true
+                }
+            }
+        ]
     },
     {
         "id": 8,
         "pergunta": "Remova o campo promocao dos produtos da categoria casa ($unset).",
-        "query": {}
+        "query": {
+            "find": { "categoria": "casa" },
+            "$project": {
+                "promocao": 0
+            }
+        }
     }
 ]
