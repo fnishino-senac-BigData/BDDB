@@ -1,0 +1,2348 @@
+[
+    {
+        "sku": "HZ-101",
+        "nome": "Tênis Corrida Leve 1",
+        "categoria": "calcados",
+        "preco": 582.6,
+        "estoque": 12,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "azul",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-102",
+        "nome": "Tênis Corrida Leve 2",
+        "categoria": "calcados",
+        "preco": 46.12,
+        "estoque": 111,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "azul"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-103",
+        "nome": "Tênis Corrida Leve 3",
+        "categoria": "calcados",
+        "preco": 513.8,
+        "estoque": 279,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "vermelho",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-104",
+        "nome": "Tênis Corrida Leve 4",
+        "categoria": "calcados",
+        "preco": 319.32,
+        "estoque": 79,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "vermelho"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-105",
+        "nome": "Tênis Casual Urbano 1",
+        "categoria": "calcados",
+        "preco": 252.68,
+        "estoque": 22,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "vermelho",
+                "azul"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-106",
+        "nome": "Tênis Casual Urbano 2",
+        "categoria": "calcados",
+        "preco": 799.1,
+        "estoque": 185,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "azul"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-107",
+        "nome": "Tênis Casual Urbano 3",
+        "categoria": "calcados",
+        "preco": 264.52,
+        "estoque": 186,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "vermelho"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-108",
+        "nome": "Tênis Casual Urbano 4",
+        "categoria": "calcados",
+        "preco": 163.69,
+        "estoque": 194,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "azul",
+                "vermelho"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-109",
+        "nome": "Sapatênis Conforto 1",
+        "categoria": "calcados",
+        "preco": 213.16,
+        "estoque": 166,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "preto",
+                "vermelho"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-110",
+        "nome": "Sapatênis Conforto 2",
+        "categoria": "calcados",
+        "preco": 728.34,
+        "estoque": 205,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "azul",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-111",
+        "nome": "Sapatênis Conforto 3",
+        "categoria": "calcados",
+        "preco": 145.63,
+        "estoque": 71,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "azul"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-112",
+        "nome": "Sapatênis Conforto 4",
+        "categoria": "calcados",
+        "preco": 371.37,
+        "estoque": 112,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "azul"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-113",
+        "nome": "Chinelo Praia 1",
+        "categoria": "calcados",
+        "preco": 572.05,
+        "estoque": 216,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "preto",
+                "branco"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 5,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-114",
+        "nome": "Chinelo Praia 2",
+        "categoria": "calcados",
+        "preco": 618.55,
+        "estoque": 58,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "azul",
+                "vermelho"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-115",
+        "nome": "Chinelo Praia 3",
+        "categoria": "calcados",
+        "preco": 859.26,
+        "estoque": 134,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "azul"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-116",
+        "nome": "Chinelo Praia 4",
+        "categoria": "calcados",
+        "preco": 785.96,
+        "estoque": 152,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-117",
+        "nome": "Bota Trilha 1",
+        "categoria": "calcados",
+        "preco": 828.17,
+        "estoque": 165,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "vermelho",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-118",
+        "nome": "Bota Trilha 2",
+        "categoria": "calcados",
+        "preco": 792.55,
+        "estoque": 40,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "preto",
+                "azul"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-119",
+        "nome": "Bota Trilha 3",
+        "categoria": "calcados",
+        "preco": 132.88,
+        "estoque": 243,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "branco",
+                "vermelho"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-120",
+        "nome": "Bota Trilha 4",
+        "categoria": "calcados",
+        "preco": 371.01,
+        "estoque": 191,
+        "atributos": {
+            "tamanhos": [
+                35,
+                37,
+                39,
+                41,
+                43
+            ],
+            "cores": [
+                "vermelho",
+                "azul"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-121",
+        "nome": "Camiseta Básica 1",
+        "categoria": "vestuario",
+        "preco": 317.42,
+        "estoque": 283,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "G"
+            ],
+            "cores": [
+                "branco",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-122",
+        "nome": "Camiseta Básica 2",
+        "categoria": "vestuario",
+        "preco": 472.36,
+        "estoque": 142,
+        "atributos": {
+            "tamanhos_letra": [
+                "GG",
+                "P"
+            ],
+            "cores": [
+                "branco",
+                "cinza"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-123",
+        "nome": "Camiseta Básica 3",
+        "categoria": "vestuario",
+        "preco": 522.42,
+        "estoque": 242,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "GG"
+            ],
+            "cores": [
+                "verde",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-124",
+        "nome": "Camiseta Básica 4",
+        "categoria": "vestuario",
+        "preco": 612.46,
+        "estoque": 50,
+        "atributos": {
+            "tamanhos_letra": [
+                "P",
+                "M"
+            ],
+            "cores": [
+                "cinza",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-125",
+        "nome": "Camisa Social Slim 1",
+        "categoria": "vestuario",
+        "preco": 143.26,
+        "estoque": 93,
+        "atributos": {
+            "tamanhos_letra": [
+                "G",
+                "M"
+            ],
+            "cores": [
+                "branco",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 5,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-126",
+        "nome": "Camisa Social Slim 2",
+        "categoria": "vestuario",
+        "preco": 835.1,
+        "estoque": 121,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "GG"
+            ],
+            "cores": [
+                "verde",
+                "branco"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-127",
+        "nome": "Camisa Social Slim 3",
+        "categoria": "vestuario",
+        "preco": 886.97,
+        "estoque": 135,
+        "atributos": {
+            "tamanhos_letra": [
+                "GG",
+                "M"
+            ],
+            "cores": [
+                "verde",
+                "cinza"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-128",
+        "nome": "Camisa Social Slim 4",
+        "categoria": "vestuario",
+        "preco": 895.87,
+        "estoque": 284,
+        "atributos": {
+            "tamanhos_letra": [
+                "GG",
+                "P"
+            ],
+            "cores": [
+                "branco",
+                "verde"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-129",
+        "nome": "Calça Jeans Reta 1",
+        "categoria": "vestuario",
+        "preco": 73.54,
+        "estoque": 160,
+        "atributos": {
+            "tamanhos_letra": [
+                "P",
+                "GG"
+            ],
+            "cores": [
+                "verde",
+                "cinza"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-130",
+        "nome": "Calça Jeans Reta 2",
+        "categoria": "vestuario",
+        "preco": 487.29,
+        "estoque": 29,
+        "atributos": {
+            "tamanhos_letra": [
+                "P",
+                "GG"
+            ],
+            "cores": [
+                "preto",
+                "cinza"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-131",
+        "nome": "Calça Jeans Reta 3",
+        "categoria": "vestuario",
+        "preco": 848.5,
+        "estoque": 291,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "G"
+            ],
+            "cores": [
+                "preto",
+                "cinza"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-132",
+        "nome": "Calça Jeans Reta 4",
+        "categoria": "vestuario",
+        "preco": 609.26,
+        "estoque": 160,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "GG"
+            ],
+            "cores": [
+                "verde",
+                "preto"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-133",
+        "nome": "Jaqueta Corta-Vento 1",
+        "categoria": "vestuario",
+        "preco": 283.9,
+        "estoque": 161,
+        "atributos": {
+            "tamanhos_letra": [
+                "P",
+                "GG"
+            ],
+            "cores": [
+                "verde",
+                "cinza"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-134",
+        "nome": "Jaqueta Corta-Vento 2",
+        "categoria": "vestuario",
+        "preco": 896.46,
+        "estoque": 37,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "G"
+            ],
+            "cores": [
+                "cinza",
+                "preto"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-135",
+        "nome": "Jaqueta Corta-Vento 3",
+        "categoria": "vestuario",
+        "preco": 795.06,
+        "estoque": 125,
+        "atributos": {
+            "tamanhos_letra": [
+                "G",
+                "M"
+            ],
+            "cores": [
+                "branco",
+                "verde"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-136",
+        "nome": "Jaqueta Corta-Vento 4",
+        "categoria": "vestuario",
+        "preco": 639.02,
+        "estoque": 270,
+        "atributos": {
+            "tamanhos_letra": [
+                "P",
+                "G"
+            ],
+            "cores": [
+                "cinza",
+                "verde"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-137",
+        "nome": "Vestido Midi 1",
+        "categoria": "vestuario",
+        "preco": 802.85,
+        "estoque": 283,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "GG"
+            ],
+            "cores": [
+                "cinza",
+                "verde"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-138",
+        "nome": "Vestido Midi 2",
+        "categoria": "vestuario",
+        "preco": 240.89,
+        "estoque": 26,
+        "atributos": {
+            "tamanhos_letra": [
+                "P",
+                "G"
+            ],
+            "cores": [
+                "verde",
+                "branco"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-139",
+        "nome": "Vestido Midi 3",
+        "categoria": "vestuario",
+        "preco": 505.38,
+        "estoque": 218,
+        "atributos": {
+            "tamanhos_letra": [
+                "P",
+                "GG"
+            ],
+            "cores": [
+                "preto",
+                "cinza"
+            ]
+        }
+    },
+    {
+        "sku": "HZ-140",
+        "nome": "Vestido Midi 4",
+        "categoria": "vestuario",
+        "preco": 500.02,
+        "estoque": 189,
+        "atributos": {
+            "tamanhos_letra": [
+                "M",
+                "GG"
+            ],
+            "cores": [
+                "branco",
+                "preto"
+            ]
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-141",
+        "nome": "Fone Bluetooth 1",
+        "categoria": "eletronicos",
+        "preco": 620.12,
+        "estoque": 52,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        }
+    },
+    {
+        "sku": "HZ-142",
+        "nome": "Fone Bluetooth 2",
+        "categoria": "eletronicos",
+        "preco": 679.44,
+        "estoque": 121,
+        "atributos": {
+            "voltagem": "bivolt",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-143",
+        "nome": "Fone Bluetooth 3",
+        "categoria": "eletronicos",
+        "preco": 41.71,
+        "estoque": 170,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-144",
+        "nome": "Fone Bluetooth 4",
+        "categoria": "eletronicos",
+        "preco": 738.5,
+        "estoque": 235,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        }
+    },
+    {
+        "sku": "HZ-145",
+        "nome": "Smartwatch Fit 1",
+        "categoria": "eletronicos",
+        "preco": 786.66,
+        "estoque": 114,
+        "atributos": {
+            "voltagem": "bivolt",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-146",
+        "nome": "Smartwatch Fit 2",
+        "categoria": "eletronicos",
+        "preco": 371.62,
+        "estoque": 274,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-147",
+        "nome": "Smartwatch Fit 3",
+        "categoria": "eletronicos",
+        "preco": 115.29,
+        "estoque": 222,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-148",
+        "nome": "Smartwatch Fit 4",
+        "categoria": "eletronicos",
+        "preco": 643.63,
+        "estoque": 0,
+        "atributos": {
+            "voltagem": "bivolt",
+            "garantia_meses": 24
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-149",
+        "nome": "Caixa de Som Portátil 1",
+        "categoria": "eletronicos",
+        "preco": 466.17,
+        "estoque": 209,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        }
+    },
+    {
+        "sku": "HZ-150",
+        "nome": "Caixa de Som Portátil 2",
+        "categoria": "eletronicos",
+        "preco": 507.78,
+        "estoque": 98,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        }
+    },
+    {
+        "sku": "HZ-151",
+        "nome": "Caixa de Som Portátil 3",
+        "categoria": "eletronicos",
+        "preco": 814.37,
+        "estoque": 291,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-152",
+        "nome": "Caixa de Som Portátil 4",
+        "categoria": "eletronicos",
+        "preco": 204.86,
+        "estoque": 296,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 5,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-153",
+        "nome": "Mouse Sem Fio 1",
+        "categoria": "eletronicos",
+        "preco": 269.63,
+        "estoque": 171,
+        "atributos": {
+            "voltagem": "bivolt",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-154",
+        "nome": "Mouse Sem Fio 2",
+        "categoria": "eletronicos",
+        "preco": 217.58,
+        "estoque": 101,
+        "atributos": {
+            "voltagem": "bivolt",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-155",
+        "nome": "Mouse Sem Fio 3",
+        "categoria": "eletronicos",
+        "preco": 799.7,
+        "estoque": 294,
+        "atributos": {
+            "voltagem": "bivolt",
+            "garantia_meses": 24
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-156",
+        "nome": "Mouse Sem Fio 4",
+        "categoria": "eletronicos",
+        "preco": 805.44,
+        "estoque": 54,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-157",
+        "nome": "Teclado Mecânico 1",
+        "categoria": "eletronicos",
+        "preco": 421.59,
+        "estoque": 237,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        }
+    },
+    {
+        "sku": "HZ-158",
+        "nome": "Teclado Mecânico 2",
+        "categoria": "eletronicos",
+        "preco": 652.86,
+        "estoque": 258,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        }
+    },
+    {
+        "sku": "HZ-159",
+        "nome": "Teclado Mecânico 3",
+        "categoria": "eletronicos",
+        "preco": 674.32,
+        "estoque": 243,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 24
+        }
+    },
+    {
+        "sku": "HZ-160",
+        "nome": "Teclado Mecânico 4",
+        "categoria": "eletronicos",
+        "preco": 758.98,
+        "estoque": 141,
+        "atributos": {
+            "voltagem": "USB",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-161",
+        "nome": "Jogo de Panelas 5 Peças 1",
+        "categoria": "casa",
+        "preco": 226.25,
+        "estoque": 171,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-162",
+        "nome": "Jogo de Panelas 5 Peças 2",
+        "categoria": "casa",
+        "preco": 641.55,
+        "estoque": 32,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-163",
+        "nome": "Jogo de Panelas 5 Peças 3",
+        "categoria": "casa",
+        "preco": 362.64,
+        "estoque": 299,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-164",
+        "nome": "Jogo de Panelas 5 Peças 4",
+        "categoria": "casa",
+        "preco": 677.71,
+        "estoque": 279,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 4,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-165",
+        "nome": "Aspirador Vertical 1",
+        "categoria": "casa",
+        "preco": 608.51,
+        "estoque": 207,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-166",
+        "nome": "Aspirador Vertical 2",
+        "categoria": "casa",
+        "preco": 882.94,
+        "estoque": 273,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-167",
+        "nome": "Aspirador Vertical 3",
+        "categoria": "casa",
+        "preco": 179.82,
+        "estoque": 133,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-168",
+        "nome": "Aspirador Vertical 4",
+        "categoria": "casa",
+        "preco": 241.9,
+        "estoque": 41,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-169",
+        "nome": "Cafeteira Elétrica 1",
+        "categoria": "casa",
+        "preco": 65.74,
+        "estoque": 179,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-170",
+        "nome": "Cafeteira Elétrica 2",
+        "categoria": "casa",
+        "preco": 593.44,
+        "estoque": 15,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-171",
+        "nome": "Cafeteira Elétrica 3",
+        "categoria": "casa",
+        "preco": 566.68,
+        "estoque": 122,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-172",
+        "nome": "Cafeteira Elétrica 4",
+        "categoria": "casa",
+        "preco": 516.19,
+        "estoque": 111,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-173",
+        "nome": "Ventilador Turbo 1",
+        "categoria": "casa",
+        "preco": 167.55,
+        "estoque": 58,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-174",
+        "nome": "Ventilador Turbo 2",
+        "categoria": "casa",
+        "preco": 615.97,
+        "estoque": 192,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 5,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-175",
+        "nome": "Ventilador Turbo 3",
+        "categoria": "casa",
+        "preco": 728.76,
+        "estoque": 289,
+        "atributos": {
+            "voltagem": "110 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-176",
+        "nome": "Ventilador Turbo 4",
+        "categoria": "casa",
+        "preco": 743.55,
+        "estoque": 54,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-177",
+        "nome": "Air Fryer 4 L 1",
+        "categoria": "casa",
+        "preco": 749.16,
+        "estoque": 78,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-178",
+        "nome": "Air Fryer 4 L 2",
+        "categoria": "casa",
+        "preco": 869.52,
+        "estoque": 138,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-179",
+        "nome": "Air Fryer 4 L 3",
+        "categoria": "casa",
+        "preco": 795.74,
+        "estoque": 124,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-180",
+        "nome": "Air Fryer 4 L 4",
+        "categoria": "casa",
+        "preco": 332.15,
+        "estoque": 132,
+        "atributos": {
+            "voltagem": "220 V",
+            "garantia_meses": 12
+        }
+    },
+    {
+        "sku": "HZ-181",
+        "nome": "Bola Society 1",
+        "categoria": "esporte",
+        "preco": 636.94,
+        "estoque": 141,
+        "atributos": {
+            "peso_kg": 5.7
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-182",
+        "nome": "Bola Society 2",
+        "categoria": "esporte",
+        "preco": 653.57,
+        "estoque": 250,
+        "atributos": {
+            "peso_kg": 5.7
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-183",
+        "nome": "Bola Society 3",
+        "categoria": "esporte",
+        "preco": 101.79,
+        "estoque": 113,
+        "atributos": {
+            "peso_kg": 4.2
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-184",
+        "nome": "Bola Society 4",
+        "categoria": "esporte",
+        "preco": 394.34,
+        "estoque": 281,
+        "atributos": {
+            "peso_kg": 3.5
+        }
+    },
+    {
+        "sku": "HZ-185",
+        "nome": "Kit Halteres 10 kg 1",
+        "categoria": "esporte",
+        "preco": 258.31,
+        "estoque": 128,
+        "atributos": {
+            "peso_kg": 2.5
+        }
+    },
+    {
+        "sku": "HZ-186",
+        "nome": "Kit Halteres 10 kg 2",
+        "categoria": "esporte",
+        "preco": 297.58,
+        "estoque": 274,
+        "atributos": {
+            "peso_kg": 9.5
+        }
+    },
+    {
+        "sku": "HZ-187",
+        "nome": "Kit Halteres 10 kg 3",
+        "categoria": "esporte",
+        "preco": 188.46,
+        "estoque": 247,
+        "atributos": {
+            "peso_kg": 3.0
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-188",
+        "nome": "Kit Halteres 10 kg 4",
+        "categoria": "esporte",
+        "preco": 337.48,
+        "estoque": 154,
+        "atributos": {
+            "peso_kg": 0.4
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-189",
+        "nome": "Corda de Pular Pro 1",
+        "categoria": "esporte",
+        "preco": 633.63,
+        "estoque": 64,
+        "atributos": {
+            "peso_kg": 6.5
+        }
+    },
+    {
+        "sku": "HZ-190",
+        "nome": "Corda de Pular Pro 2",
+        "categoria": "esporte",
+        "preco": 110.18,
+        "estoque": 6,
+        "atributos": {
+            "peso_kg": 5.9
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-191",
+        "nome": "Corda de Pular Pro 3",
+        "categoria": "esporte",
+        "preco": 848.04,
+        "estoque": 244,
+        "atributos": {
+            "peso_kg": 1.4
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 5,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-192",
+        "nome": "Corda de Pular Pro 4",
+        "categoria": "esporte",
+        "preco": 153.42,
+        "estoque": 288,
+        "atributos": {
+            "peso_kg": 9.5
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-193",
+        "nome": "Garrafa Térmica 1 L 1",
+        "categoria": "esporte",
+        "preco": 692.61,
+        "estoque": 115,
+        "atributos": {
+            "peso_kg": 7.8
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 4,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-194",
+        "nome": "Garrafa Térmica 1 L 2",
+        "categoria": "esporte",
+        "preco": 520.29,
+        "estoque": 30,
+        "atributos": {
+            "peso_kg": 6.2
+        }
+    },
+    {
+        "sku": "HZ-195",
+        "nome": "Garrafa Térmica 1 L 3",
+        "categoria": "esporte",
+        "preco": 853.78,
+        "estoque": 106,
+        "atributos": {
+            "peso_kg": 6.4
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-196",
+        "nome": "Garrafa Térmica 1 L 4",
+        "categoria": "esporte",
+        "preco": 172.86,
+        "estoque": 38,
+        "atributos": {
+            "peso_kg": 1.8
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 3,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-197",
+        "nome": "Tapete Yoga 1",
+        "categoria": "esporte",
+        "preco": 642.02,
+        "estoque": 232,
+        "atributos": {
+            "peso_kg": 1.0
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-198",
+        "nome": "Tapete Yoga 2",
+        "categoria": "esporte",
+        "preco": 394.02,
+        "estoque": 278,
+        "atributos": {
+            "peso_kg": 2.5
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-199",
+        "nome": "Tapete Yoga 3",
+        "categoria": "esporte",
+        "preco": 717.41,
+        "estoque": 291,
+        "atributos": {
+            "peso_kg": 9.2
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-200",
+        "nome": "Tapete Yoga 4",
+        "categoria": "esporte",
+        "preco": 849.46,
+        "estoque": 256,
+        "atributos": {
+            "peso_kg": 5.5
+        },
+        "avaliacoes": [
+            {
+                "nota": 3,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            },
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-201",
+        "nome": "Guia de Dados para Negócios 1",
+        "categoria": "livros",
+        "preco": 42.66,
+        "estoque": 117,
+        "atributos": {
+            "paginas": 465,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-202",
+        "nome": "Guia de Dados para Negócios 2",
+        "categoria": "livros",
+        "preco": 611.51,
+        "estoque": 137,
+        "atributos": {
+            "paginas": 415,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-203",
+        "nome": "Guia de Dados para Negócios 3",
+        "categoria": "livros",
+        "preco": 174.07,
+        "estoque": 265,
+        "atributos": {
+            "paginas": 453,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-204",
+        "nome": "Guia de Dados para Negócios 4",
+        "categoria": "livros",
+        "preco": 179.61,
+        "estoque": 299,
+        "atributos": {
+            "paginas": 343,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-205",
+        "nome": "Romance da Serra 1",
+        "categoria": "livros",
+        "preco": 433.51,
+        "estoque": 209,
+        "atributos": {
+            "paginas": 290,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-206",
+        "nome": "Romance da Serra 2",
+        "categoria": "livros",
+        "preco": 774.71,
+        "estoque": 168,
+        "atributos": {
+            "paginas": 330,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-207",
+        "nome": "Romance da Serra 3",
+        "categoria": "livros",
+        "preco": 296.68,
+        "estoque": 165,
+        "atributos": {
+            "paginas": 179,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-208",
+        "nome": "Romance da Serra 4",
+        "categoria": "livros",
+        "preco": 745.84,
+        "estoque": 0,
+        "atributos": {
+            "paginas": 456,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Chegou rápido"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-209",
+        "nome": "Culinária Prática 1",
+        "categoria": "livros",
+        "preco": 567.82,
+        "estoque": 255,
+        "atributos": {
+            "paginas": 440,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-210",
+        "nome": "Culinária Prática 2",
+        "categoria": "livros",
+        "preco": 199.03,
+        "estoque": 281,
+        "atributos": {
+            "paginas": 187,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            },
+            {
+                "nota": 3,
+                "texto": "Atendeu bem"
+            },
+            {
+                "nota": 3,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-211",
+        "nome": "Culinária Prática 3",
+        "categoria": "livros",
+        "preco": 293.36,
+        "estoque": 7,
+        "atributos": {
+            "paginas": 402,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Excelente produto"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-212",
+        "nome": "Culinária Prática 4",
+        "categoria": "livros",
+        "preco": 589.88,
+        "estoque": 78,
+        "atributos": {
+            "paginas": 375,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-213",
+        "nome": "História do Comércio 1",
+        "categoria": "livros",
+        "preco": 421.87,
+        "estoque": 74,
+        "atributos": {
+            "paginas": 316,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-214",
+        "nome": "História do Comércio 2",
+        "categoria": "livros",
+        "preco": 467.15,
+        "estoque": 69,
+        "atributos": {
+            "paginas": 155,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-215",
+        "nome": "História do Comércio 3",
+        "categoria": "livros",
+        "preco": 771.78,
+        "estoque": 174,
+        "atributos": {
+            "paginas": 379,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-216",
+        "nome": "História do Comércio 4",
+        "categoria": "livros",
+        "preco": 268.8,
+        "estoque": 152,
+        "atributos": {
+            "paginas": 420,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-217",
+        "nome": "Xadrez para Todos 1",
+        "categoria": "livros",
+        "preco": 412.86,
+        "estoque": 247,
+        "atributos": {
+            "paginas": 296,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            },
+            {
+                "nota": 5,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-218",
+        "nome": "Xadrez para Todos 2",
+        "categoria": "livros",
+        "preco": 523.08,
+        "estoque": 119,
+        "atributos": {
+            "paginas": 330,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 5,
+                "texto": "Recomendo"
+            },
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    },
+    {
+        "sku": "HZ-219",
+        "nome": "Xadrez para Todos 3",
+        "categoria": "livros",
+        "preco": 455.79,
+        "estoque": 18,
+        "atributos": {
+            "paginas": 184,
+            "idioma": "português"
+        }
+    },
+    {
+        "sku": "HZ-220",
+        "nome": "Xadrez para Todos 4",
+        "categoria": "livros",
+        "preco": 789.19,
+        "estoque": 225,
+        "atributos": {
+            "paginas": 171,
+            "idioma": "português"
+        },
+        "avaliacoes": [
+            {
+                "nota": 4,
+                "texto": "Bom custo-benefício"
+            }
+        ]
+    }
+]
